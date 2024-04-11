@@ -1,0 +1,216 @@
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\Employees.API.exe
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\Employees.API.deps.json
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\Employees.API.runtimeconfig.json
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\Employees.API.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\Employees.API.pdb
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\Humanizer.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\System.Drawing.Common.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\System.Security.Permissions.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\Employees.Core.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\Employees.Data.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\Employees.Service.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\Employees.Core.pdb
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\Employees.Data.pdb
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\Employees.Service.pdb
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\obj\Debug\net6.0\Employees.API.csproj.AssemblyReference.cache
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\obj\Debug\net6.0\Employees.API.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\obj\Debug\net6.0\Employees.API.AssemblyInfoInputs.cache
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\obj\Debug\net6.0\Employees.API.AssemblyInfo.cs
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\obj\Debug\net6.0\Employees.API.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\obj\Debug\net6.0\Employees.API.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\obj\Debug\net6.0\Employees.API.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\obj\Debug\net6.0\scopedcss\bundle\Employees.API.styles.css
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\obj\Debug\net6.0\Employees.API.csproj.CopyComplete
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\obj\Debug\net6.0\Employees.API.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\obj\Debug\net6.0\refint\Employees.API.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\obj\Debug\net6.0\Employees.API.pdb
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\obj\Debug\net6.0\Employees.API.genruntimeconfig.cache
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\obj\Debug\net6.0\ref\Employees.API.dll
+Y:\Groups\Group_1\גיברלטר  חוה\פרקטיקום\1\server\2\Employees\Employees.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\appsettings.json
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\Employees.API.exe
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\Employees.API.deps.json
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\Employees.API.runtimeconfig.json
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\Employees.API.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\Employees.API.pdb
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\Employees.Core.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\Employees.Data.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\Employees.Service.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\Employees.Core.pdb
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\Employees.Data.pdb
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\bin\Debug\net6.0\Employees.Service.pdb
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\obj\Debug\net6.0\Employees.API.csproj.AssemblyReference.cache
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\obj\Debug\net6.0\Employees.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\obj\Debug\net6.0\Employees.API.AssemblyInfoInputs.cache
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\obj\Debug\net6.0\Employees.API.AssemblyInfo.cs
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\obj\Debug\net6.0\Employees.API.csproj.CoreCompileInputs.cache
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\obj\Debug\net6.0\Employees.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\obj\Debug\net6.0\Employees.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\obj\Debug\net6.0\scopedcss\bundle\Employees.API.styles.css
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\obj\Debug\net6.0\Employees.API.csproj.CopyComplete
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\obj\Debug\net6.0\Employees.API.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\obj\Debug\net6.0\refint\Employees.API.dll
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\obj\Debug\net6.0\Employees.API.pdb
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\obj\Debug\net6.0\Employees.API.genruntimeconfig.cache
+C:\Users\hitmachut\Desktop\2\Employees\Employees.API\obj\Debug\net6.0\ref\Employees.API.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\obj\Debug\net6.0\Employees.API.csproj.AssemblyReference.cache
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\obj\Debug\net6.0\Employees.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\obj\Debug\net6.0\Employees.API.AssemblyInfoInputs.cache
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\obj\Debug\net6.0\Employees.API.AssemblyInfo.cs
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\obj\Debug\net6.0\Employees.API.csproj.CoreCompileInputs.cache
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\obj\Debug\net6.0\Employees.API.MvcApplicationPartsAssemblyInfo.cs
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\obj\Debug\net6.0\Employees.API.MvcApplicationPartsAssemblyInfo.cache
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\obj\Debug\net6.0\Employees.API.sourcelink.json
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\obj\Debug\net6.0\Employees.API.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\obj\Debug\net6.0\refint\Employees.API.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\obj\Debug\net6.0\Employees.API.pdb
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\appsettings.Development.json
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\appsettings.json
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\Employees.API.exe
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\Employees.API.deps.json
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\Employees.API.runtimeconfig.json
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\Employees.API.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\Employees.API.pdb
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\AutoMapper.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\Humanizer.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\Employees.Core.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\Employees.Data.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\Employees.Service.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\Employees.Core.pdb
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\Employees.Data.pdb
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\bin\Debug\net6.0\Employees.Service.pdb
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\obj\Debug\net6.0\staticwebassets\msbuild.Employees.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Employees.API.props
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Employees.API.props
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Employees.API.props
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\obj\Debug\net6.0\staticwebassets.pack.json
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\obj\Debug\net6.0\scopedcss\bundle\Employees.API.styles.css
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\obj\Debug\net6.0\Employee.1B3735E2.Up2Date
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\obj\Debug\net6.0\Employees.API.genruntimeconfig.cache
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.API\obj\Debug\net6.0\ref\Employees.API.dll

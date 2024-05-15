@@ -77,11 +77,12 @@ export const editEmployee = (data, id) => {
     };
 }
 //current
-export const setCurrentEmployee = (id) => {
+export const setCurrentEmployee = (id,callBack) => {
     return dispatch => {
         axios.get(`https://localhost:7029/api/Employee/${id}`)
             .then(res => {
                 dispatch({ type: actionType.SET_CURRENT_EMPLOYEE, payload: res.data })
+                callBack();
             }).catch(err => console.log(err));
     };
 }
@@ -89,7 +90,7 @@ export const setCurrentEmployee = (id) => {
 export const deleteCurrentEmployee = (id) => {
     return dispatch => {
 
-        dispatch({ type: actionType.SET_CURRENT_EMPLOYEE })
+        dispatch({ type: actionType.DELETE_CURRENT_EMPLOYEE })
         dispatch(getArchivEmployees);
     };
 }

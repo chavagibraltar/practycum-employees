@@ -35,3 +35,16 @@ D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחי�
 D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.Core\obj\Debug\net6.0\refint\Employees.Core.dll
 D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.Core\obj\Debug\net6.0\Employees.Core.pdb
 D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.Core\obj\Debug\net6.0\ref\Employees.Core.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Core\bin\Debug\net6.0\Employees.Core.deps.json
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Core\bin\Debug\net6.0\Employees.Core.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Core\bin\Debug\net6.0\Employees.Core.pdb
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Core\obj\Debug\net6.0\Employees.Core.csproj.AssemblyReference.cache
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Core\obj\Debug\net6.0\Employees.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Core\obj\Debug\net6.0\Employees.Core.AssemblyInfoInputs.cache
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Core\obj\Debug\net6.0\Employees.Core.AssemblyInfo.cs
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Core\obj\Debug\net6.0\Employees.Core.csproj.CoreCompileInputs.cache
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Core\obj\Debug\net6.0\Employees.Core.sourcelink.json
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Core\obj\Debug\net6.0\Employees.Core.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Core\obj\Debug\net6.0\refint\Employees.Core.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Core\obj\Debug\net6.0\Employees.Core.pdb
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Core\obj\Debug\net6.0\ref\Employees.Core.dll

@@ -9,7 +9,7 @@ export default function HomePage() {
     return (
         <>
             <Container text>
-                <Header as="h1" textAlign="center">
+                <Header as="h1" textAlign="center" className="text-Black">
                     !ברוכים הבאים למערכת ניהול עובדים
                 </Header>
                 <Segment>
@@ -21,14 +21,14 @@ export default function HomePage() {
                 <Container style={{ textAlign: "center" }}>
                     <List divided horizontal style={{ textAlign: "center", display: "inline-flex" }}>
                         <List.Item style={{ padding: "30px" }}>
-                            <Header as="h3">ניהול הרשאות</Header>
+                            <Header as="h3" className="text-Black">ניהול הרשאות</Header>
                             <List style={{ textAlign: "center" }}>
                                 <List.Item>הגדרת הרשאות משתמשים</List.Item>
                                 <List.Item>ניהול גישת משתמשים למידע</List.Item>
                             </List>
                         </List.Item>
                         <List.Item style={{ padding: "30px" }}>
-                            <Header as="h3">ניהול עובדים</Header>
+                            <Header as="h3" className="text-Black">ניהול עובדים</Header>
                             <List style={{ textAlign: "center" }}>
                                 <List.Item>הוספת עובדים חדשים (עם תמונה)</List.Item>
                                 <List.Item>עדכון פרטי עובדים</List.Item>
@@ -39,7 +39,7 @@ export default function HomePage() {
                             </List>
                         </List.Item>
                         <List.Item style={{ padding: "30px" }}>
-                            <Header as="h3">ניהול תפקידים</Header>
+                            <Header as="h3" className="text-Black">ניהול תפקידים</Header>
                             <List style={{ textAlign: "center" }}>
                                 <List.Item>הוספת תפקידים חדשים</List.Item>
                                 <List.Item>עדכון פרטי תפקידים</List.Item>
@@ -82,54 +82,5 @@ export default function HomePage() {
             </Container>
 
         </>
-        // <>
-        //     <div>this is the Home Page</div>
-        //     <div>
-        //         <h1>ברוכים הבאים למערכת ניהול עובדים!</h1>
-        //         <p>מערכת זו מאפשרת לכם לנהל את רשומות העובדים שלכם בצורה יעילה וקלה.</p>
-        //         <h2>היכולות העיקריות של המערכת:</h2>
-        //         <ul>
-        //             <li>ניהול עובדים:</li>
-        //             <ul>
-        //                 <li>הוספת עובדים חדשים (עם תמונה)</li>
-        //                 <li>עדכון פרטי עובדים</li>
-        //                 <li>מחיקת עובדים</li>
-        //                 <li>ניהול תפקידים של עובדים</li>
-        //                 <li>העברת עובדים לארכיון והחזרתם</li>
-        //                 <li>הדפסה/ייצוא רשימת עובדים לאקסל</li>
-        //             </ul>
-        //             <li>ניהול תפקידים:</li>
-        //             <ul>
-        //                 <li>הוספת תפקידים חדשים</li>
-        //                 <li>עדכון פרטי תפקידים</li>
-        //                 <li>מחיקת תפקידים</li>
-        //                 <li>הקצאת תפקידים לעובדים</li>
-        //             </ul>
-        //             <li>ניהול הרשאות:</li>
-        //             <ul>
-        //                 <li>הגדרת הרשאות משתמשים</li>
-        //                 <li>ניהול גישת משתמשים למידע</li>
-        //             </ul>
-        //         </ul>
-        //         <h2>יתרונות השימוש במערכת:</h2>
-        //         <ul>
-        //             <li>**יעילות:** המערכת מאפשרת לכם לחסוך זמן ומאמץ בניהול רשומות העובדים שלכם.</li>
-        //             <li>**דיוק:** המערכת מבטיחה שהמידע על עובדיכם יהיה מעודכן ומדויק.</li>
-        //             <li>**גמישות:** המערכת ניתנת להתאמה אישית לצרכים שלכם.</li>
-        //             <li>**אבטחה:** המערכת מאבטחת את המידע על עובדיכם.</li>
-        //         </ul>
-        //         <h2>למי מיועדת המערכת?</h2>
-        //         <p>המערכת מיועדת לכל עסק, ארגון, מוסד או חנות שרוצה לנהל את רשומות העובדים שלו בצורה יעילה וקלה.</p>
-        //         <h2>התחילו עוד היום!</h2>
-        //         <p>הירשמו עכשיו ותתחילו ליהנות מכל היתרונות של מערכת ניהול עובדים.</p>
-        //         <h2>לפרטים נוספים, צרו קשר איתנו:</h2>
-        //         <ul>
-        //             <li>טלפון: 050-1234567</li>
-        //             <li>דוא"ל: [כתובת אימייל שהוסרה]</li>
-        //             <li>אתר: [https://www.example.com](https://www.example.com)</li>
-        //         </ul>
-        //         <h2># עובדים מרוצים, עסק מצליח!</h2>
-        //     </div>
-        // </>
     );
 }

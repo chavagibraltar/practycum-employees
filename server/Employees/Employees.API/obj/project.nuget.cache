@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V7OXbMKcHHVqjzzJUYcFjxulzUV+Bxj0YRe9Z9yosrndABoUE72Jis68KtxUjuor3rpso1gBvqDA/yJUzgM4eA==",
+  "dgSpecHash": "kLEjf5anfe2u3dlDpXWQc7mq6yppJ4iCffG3oPz8VSRUsWq37weur4QqLB6yUGLoFBGTxOMfS/k9e7YZoK3l+Q==",
   "success": true,
-  "projectFilePath": "D:\\תכנות\\שנה B\\פרקטיקום\\הפרויקט\\1\\Server\\3 - עם מחיקות\\2\\Employees\\Employees.API\\Employees.API.csproj",
+  "projectFilePath": "D:\\תכנות\\שנה B\\פרקטיקום\\הפרויקט\\1\\Employees Client-Server\\github2\\employees\\server\\Employees\\Employees.API\\Employees.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user1\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

@@ -50,7 +50,7 @@ header {
   top: 0;
   left: 0;
   width: 100%;
-  background-color: #ffffff; /* צבע רקע של הכותרת */
+  background-color: var(--background); /* צבע רקע של הכותרת */
   z-index: 1000; /* מידת השקיפות של הכותרת, המספר הזה עשוי להיות גבוה יותר או נמוך על פי הצורך */
 }
 footer {
@@ -58,7 +58,7 @@ footer {
   bottom: 0;
   left: 0;
   width: 100%;
-  background-color: #ffffff; /* צבע רקע של הכותרת */
+  background-color: var(--background); /* צבע רקע של הכותרת */
   z-index: 1000; /* מידת השקיפות של הכותרת, המספר הזה עשוי להיות גבוה יותר או נמוך על פי הצורך */
 }
 .body{
@@ -70,11 +70,11 @@ footer {
   padding-left: 20px;
 
 }
-.text{
+.text {
   color: #1976d2;
 }
 .text-Black{
-  color: #000000;
+  color: var(--title-text) !important;
 }
 /* text-align: center; */
 .menu{
@@ -279,3 +279,16 @@ svg {
   border: 5px solid #cec17b;
   margin-top: 20px;
 } */
+
+.dark {
+  --background: black;
+  --title-text: white;
+  --desc-text: grey;
+}
+
+/* Set the light mode variables... */
+.light {
+  --background: white;
+  --title-text: black;
+  --desc-text: grey;
+}

@@ -44,3 +44,19 @@ D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחי�
 D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.pdb
 D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.Service\obj\Debug\net6.0\ref\Employees.Service.dll
 D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.Service\obj\Debug\net6.0\Employee.E5E494EB.Up2Date
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Service\bin\Debug\net6.0\Employees.Service.deps.json
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Service\bin\Debug\net6.0\Employees.Service.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Service\bin\Debug\net6.0\Employees.Service.pdb
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Service\bin\Debug\net6.0\Employees.Core.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Service\bin\Debug\net6.0\Employees.Core.pdb
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.csproj.AssemblyReference.cache
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.AssemblyInfoInputs.cache
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.AssemblyInfo.cs
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.csproj.CoreCompileInputs.cache
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.sourcelink.json
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Service\obj\Debug\net6.0\Employee.E5E494EB.Up2Date
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Service\obj\Debug\net6.0\refint\Employees.Service.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Service\obj\Debug\net6.0\Employees.Service.pdb
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Service\obj\Debug\net6.0\ref\Employees.Service.dll

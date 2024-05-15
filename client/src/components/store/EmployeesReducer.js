@@ -74,6 +74,7 @@ export default function EmployeesReducer(state = initialState, action) {
                 let { startDate, birthDate } = { employee }
                 employee.startDate = dayjs(startDate).format("YYYY-MM-DD")
                 employee.birthDate = dayjs(birthDate).format("YYYY-MM-DD")
+                employee.roles?.map(role=> role.startDate = dayjs(role?.startDate).format("YYYY-MM-DD"))
                 return {
                     ...state,
                     employee: employee

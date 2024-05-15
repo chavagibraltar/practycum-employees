@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\תכנות\\שנה B\\פרקטיקום\\הפרויקט\\1\\Server\\3 - עם מחיקות\\2\\Employees\\Employees.Core\\Employees.Core.csproj": {}
+    "D:\\תכנות\\שנה B\\פרקטיקום\\הפרויקט\\1\\Employees Client-Server\\github2\\employees\\server\\Employees\\Employees.Core\\Employees.Core.csproj": {}
   },
   "projects": {
-    "D:\\תכנות\\שנה B\\פרקטיקום\\הפרויקט\\1\\Server\\3 - עם מחיקות\\2\\Employees\\Employees.Core\\Employees.Core.csproj": {
+    "D:\\תכנות\\שנה B\\פרקטיקום\\הפרויקט\\1\\Employees Client-Server\\github2\\employees\\server\\Employees\\Employees.Core\\Employees.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\תכנות\\שנה B\\פרקטיקום\\הפרויקט\\1\\Server\\3 - עם מחיקות\\2\\Employees\\Employees.Core\\Employees.Core.csproj",
+        "projectUniqueName": "D:\\תכנות\\שנה B\\פרקטיקום\\הפרויקט\\1\\Employees Client-Server\\github2\\employees\\server\\Employees\\Employees.Core\\Employees.Core.csproj",
         "projectName": "Employees.Core",
-        "projectPath": "D:\\תכנות\\שנה B\\פרקטיקום\\הפרויקט\\1\\Server\\3 - עם מחיקות\\2\\Employees\\Employees.Core\\Employees.Core.csproj",
+        "projectPath": "D:\\תכנות\\שנה B\\פרקטיקום\\הפרויקט\\1\\Employees Client-Server\\github2\\employees\\server\\Employees\\Employees.Core\\Employees.Core.csproj",
         "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "D:\\תכנות\\שנה B\\פרקטיקום\\הפרויקט\\1\\Server\\3 - עם מחיקות\\2\\Employees\\Employees.Core\\obj\\",
+        "outputPath": "D:\\תכנות\\שנה B\\פרקטיקום\\הפרויקט\\1\\Employees Client-Server\\github2\\employees\\server\\Employees\\Employees.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

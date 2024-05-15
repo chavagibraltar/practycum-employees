@@ -50,3 +50,21 @@ D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחי�
 D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.Data\obj\Debug\net6.0\Employees.Data.genruntimeconfig.cache
 D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.Data\obj\Debug\net6.0\ref\Employees.Data.dll
 D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Server\3 - עם מחיקות\2\Employees\Employees.Data\obj\Debug\net6.0\Employee.6F4A7F82.Up2Date
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Data\bin\Debug\net6.0\Employees.Data.deps.json
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Data\bin\Debug\net6.0\Employees.Data.runtimeconfig.json
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Data\bin\Debug\net6.0\Employees.Data.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Data\bin\Debug\net6.0\Employees.Data.pdb
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Data\bin\Debug\net6.0\Employees.Core.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Data\bin\Debug\net6.0\Employees.Core.pdb
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Data\obj\Debug\net6.0\Employees.Data.csproj.AssemblyReference.cache
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Data\obj\Debug\net6.0\Employees.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Data\obj\Debug\net6.0\Employees.Data.AssemblyInfoInputs.cache
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Data\obj\Debug\net6.0\Employees.Data.AssemblyInfo.cs
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Data\obj\Debug\net6.0\Employees.Data.csproj.CoreCompileInputs.cache
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Data\obj\Debug\net6.0\Employees.Data.sourcelink.json
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Data\obj\Debug\net6.0\Employee.6F4A7F82.Up2Date
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Data\obj\Debug\net6.0\Employees.Data.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Data\obj\Debug\net6.0\refint\Employees.Data.dll
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Data\obj\Debug\net6.0\Employees.Data.pdb
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Data\obj\Debug\net6.0\Employees.Data.genruntimeconfig.cache
+D:\תכנות\שנה B\פרקטיקום\הפרויקט\1\Employees Client-Server\github2\employees\server\Employees\Employees.Data\obj\Debug\net6.0\ref\Employees.Data.dll

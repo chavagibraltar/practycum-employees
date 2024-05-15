@@ -5,7 +5,7 @@ import { useLocation, useNavigate } from "react-router-dom";
 import { yupResolver } from '@hookform/resolvers/yup';
 import { getRoles } from "../services/roleService";
 import { addEmployee, deleteCurrentEmployee, editEmployee } from '../services/employeesService';
-import { Modal } from 'react-bootstrap';
+// import { Modal } from 'react-bootstrap';
 import * as yup from 'yup';
 // import { Button } from '@mui/material';
 // import Box from '@mui/joy/Box';
@@ -20,19 +20,35 @@ import Swal from "sweetalert2";
 import swalWithBootstrapButtons from "sweetalert2";
 import dayjs from "dayjs";
 
-// import { moment } from "moment";
+function isValidTZ(message= 'is valid') {
+  return this.test("isValidTZ", message, function (id) {
+    const { path, createError } = this;
 
+    id = String(id).trim();
+if (id?.length > 9 || isNaN(id)) return createError({ path, message });
+
+id = id.length < 9 ? ("00000000" + id).slice(-9) : id;
+  return Array.from(id, Number).reduce((counter, digit, i) => {
+    const step = digit * ((i % 2) + 1);
+    return counter + (step > 9 ? step - 9 : step);
+  }) % 10 === 0;
+
+});
+}
+
+yup.addMethod(yup.mixed, "isValidTZ", isValidTZ); 
 
 const schema = yup.object().shape({
   firstName: yup.string().required('This field is required'),
   lastName: yup.string().required('This field is required'),
-  tz: yup.number().integer('').positive('').required('This field is required'),
+  tz: yup.mixed().required('This field is required').isValidTZ('is valid TZ'),
   startDate: yup.date().required('This field is required'),
   birthDate: yup.date().required('This field is required'),
   gender: yup.number().required('This field is required'),
   roles: yup.array().of(
-    yup.object().shape({
-      roleId: yup.number().required('This field is required'),
+    yup.object({
+      id: yup.number(),
+      role:  yup.object({ id: yup.number().required('This field is required'), name: yup.string()}),
       isAdministrative: yup.boolean().required('This field is required'),
       startDate: yup.date().required('This field is required'),
     }).required(),
@@ -46,38 +62,13 @@ const gender = [
 export const SelectGender = () => (
   <Select placeholder='Select your gender' options={gender} />
 )
-export const SelectRoles = () => {
-  const roles = useSelector(state => state.roles.roles)
-  const employee = useSelector(state => state.employees.employee)
-  const [d, setD] = useState([])
-  useEffect(() => {
-    // מילוי מערך d עם נתונים מ-roles
-    setD(roles.map(role => ({ key: role.id, value: role.id, text: role.name })));
-  }, [roles]);
-  return (
-    <>
-      <Select placeholder='Select your role' options={d} />
-    </>
-  );
-}
-// roles?.map((x, i) => {
-//   <div key={i}>
-//     d.append({value= x.roleId, text= x.name})
-//   </div>
-// })
-// {
-//   roles?.map((x, i) =>
-//     <option key={i} value={x.Id}
-//       selected={employee && x.Id == employee.CategoryId}>
-//       {x.Name}
-//     </option>)
-// }
+
 
 const AddEditEmployee = () => {
 
   const employee = useSelector(state => state.employees.employee)
   const employeeId = useSelector(state => state.employees.employee?.id)
-  const roles = useSelector(state => state.roles.roles)
+  const allRoles = useSelector(state => state.roles.roles)
 
   const dispatch = useDispatch();
   const navigate = useNavigate();
@@ -88,17 +79,22 @@ const AddEditEmployee = () => {
   const handleShow = () => setShow(true);
   const [showConfirm, setShowConsfirm] = useState(false);
 
-  useEffect(() => {
-    dispatch(getRoles())
-  }, [roles])
+  const [d, setD] = useState([])
+
 
   const { register, control, handleSubmit, formState: { errors } } = useForm({
-    resolver: yupResolver(schema)
+    resolver: yupResolver(schema),
+    defaultValues: employee
   });
 
   const { fields, append, remove } = useFieldArray({
     control, name: "roles"
   });
+
+  useEffect(() => {
+    // מילוי מערך d עם נתונים מ-roles
+    setD(allRoles.map(role => ({ key: role.id, value: role.id, text: role.name })));
+  }, [allRoles]);
 
   useEffect(() => {
     if (location.pathname == '/addEmployee') {
@@ -219,54 +215,54 @@ const AddEditEmployee = () => {
               </select>
               <p className="error">{errors.gender?.message}</p>
             </FormField>
-          </Form>
+            </Form>
           <br />
           {fields.map((field, index) => (
-            <Form key={index}>
+            <Form>
               <FormGroup widths='equal' height="equal">
                 <Button type="button" onClick={() => remove(index)} >
                   <Icon name='remove' size='large' color='teal' aria-hidden="true" class="teal remove bordered icon" />
                 </Button>
-                <FormField required={true} error={errors?.roles?.find((x, i) => errors.roles[i] && index == i)?.roleId?.message}>
+                <FormField required={true} error={errors?.roles?.[index]?.role?.id?.message}>
                   <label id='number'>Role Name</label>
-                  <p className="error">{errors?.roles?.find((x, i) => errors.roles[i] && index == i)?.name?.message}</p>
+                  <Select placeholder='Select your role' options={d}  defaultValue={field.role.id ? field.role.id : ''} {...register(`roles[${index}].role.id`)} />
+                  <p className="error">{errors?.roles?.[index]?.role.id?.message}</p>
                 </FormField>
-                <FormField required={true} error={errors?.roles?.find((x, i) => errors.roles[i] && index == i)?.startDate?.message}>
+                <FormField required={true} error={errors?.roles?.[index]?.startDate?.message}>
                   <label id='text'>Start Date</label >
                   <input
                     type="date"
-                    {...register(`roles.${index}.startDate`)}
+                    {...register(`roles[${index}].startDate`)}
                     defaultValue={field.startDate ? field.startDate : ""}
                   />
-                  <p className="error">{errors?.roles?.find((x, i) => errors.roles[i] && index == i)?.startDate?.message}</p>
+                  <p className="error">{errors?.roles?.[index]?.startDate?.message}</p>
                 </FormField>
 
-                <FormField required={true} error={errors?.roles?.find((x, i) => errors.roles[i] && index == i)?.isAdministrative?.message}>
+                <FormField required={true} error={errors?.roles?.[index]?.isAdministrative?.message}>
                   <label id='text'>Is Managment?</label>
                   <input type="checkbox"
-                    {...register(`roles.${index}.isAdministrative`)}
+                    {...register(`roles[${index}].isAdministrative`)}
                     size="huge"
                     required={false}
                     label='Is this a management role?'
+                    defaultValue={field.isAdministrative ? field.isAdministrative : false}
                   />
-                  <p className="error">{errors?.roles?.find((x, i) => errors.roles[i] && index == i)?.isAdministrative?.message}</p>
+                  <p className="error">{errors?.roles?.[index]?.isAdministrative?.message}</p>
                 </FormField>
-
               </FormGroup>
-            </Form>
+              </Form>
           ))}
           <br />
           <FormGroup widths='equal'>
             <Button type='button' onClick={() => {
               if (!errors.roles)
-                append({})
+                append({id:'',role:{id:''},startDate:'',isAdministrative:''})
             }}>Add Role</Button>
-
-
             <Button type="submit" className='text'>Save</Button>
           </FormGroup>
           <br />
           <br />
+
         </form>
       </Container >
     </>

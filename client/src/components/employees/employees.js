@@ -2,6 +2,7 @@ import { yupResolver } from "@hookform/resolvers/yup"
 import * as yup from "yup"
 import { useEffect, useState, useRef, useMemo } from "react";
 import { useDispatch, useSelector } from "react-redux";
+import dayjs from "dayjs";
 import { getEmployees, addEmployee, deleteEmployee, setCurrentEmployee } from "../services/employeesService";
 import AddEditEmployee from './addEditEmployee';
 import Excel from '../excel';
@@ -33,13 +34,12 @@ export default function Employees() {
         { field: 'firstName', headerName: 'First name', width: 130 },
         { field: 'lastName', headerName: 'Last name', width: 130 },
         { field: 'tz', headerName: 'TZ', width: 130 },
-        { field: 'startDate', headerName: 'Start Date', width: 130 },
+        { field: 'startDate', headerName: 'Start Date', width: 130,type: 'Date', valueFormatter: params =>  dayjs(params?.value).format("YYYY-MM-DD")},
         {
             field: "delete",
             headerName: "",
             width: 100,
-            renderCell: (params) => {
-                const { row } = params;
+            renderCell: (params) => {               const { row } = params;
                 return (
                     <Button
                         variant="outlined"
@@ -85,8 +85,7 @@ export default function Employees() {
                         variant="outlined"
                         size="small"
                         onClick={() => {
-                            dispatch(setCurrentEmployee(row.id))
-                            navigate('/editEmployee');
+                            dispatch(setCurrentEmployee(row.id,()=> navigate('/editEmployee')))
                         }}
                     >
                         <EditIcon />
